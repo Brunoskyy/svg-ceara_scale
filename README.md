@@ -1,5 +1,7 @@
 # Ceará choropleth in plain SVG
 
+Live: https://brunoskyy.github.io/svg-ceara_scale/
+
 An SVG map of the state of Ceará, in Brazil, with one `<path>` per
 municipality (190 of them), plus a small script that colors each one from a
 value in a JSON object and draws the legend to match. I made it in November
